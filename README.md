@@ -1,2 +1,1 @@
-# My-Final-Kicker-Project
-This is my last repository for my learningng class with this project I am hoping to do really good things.
+This project is in limited support and it may malfunction so dont trust this code at all times if code malfunctions please contact through my email hope that this code help and made your day have a great time.
